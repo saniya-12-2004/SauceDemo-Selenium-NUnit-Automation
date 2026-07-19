@@ -32,11 +32,10 @@ The following test cases are covered:
 
 ## 📂 Project Structure
 
-SeleniumPractice
-    │
-    |
+SeleniumPractice 
+
     ├── Dependencies
-    |
+    
     └── LoginTests.cs
 
 
