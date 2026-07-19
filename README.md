@@ -34,9 +34,10 @@ The following test cases are covered:
 
 SeleniumPractice
 │
-│
+
 ├── Dependencies
 │
+
 └── LoginTests.cs
 
 
@@ -80,5 +81,5 @@ Test cases covered:
 - 
 ## Test Execution Output
 
-![Test Execution](TestExecution.png)
+![Test Execution](TestExecutionResult.png)
 
