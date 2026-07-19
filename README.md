@@ -34,7 +34,9 @@ The following test cases are covered:
 
 SeleniumPractice
     │
+    |
     ├── Dependencies
+    |
     └── LoginTests.cs
 
 
