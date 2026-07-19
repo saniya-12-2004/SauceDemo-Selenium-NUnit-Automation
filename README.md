@@ -33,12 +33,9 @@ The following test cases are covered:
 ## 📂 Project Structure
 
 SeleniumPractice
-│
-
-├── Dependencies
-│
-
-└── LoginTests.cs
+    │
+    ├── Dependencies
+    └── LoginTests.cs
 
 
 
